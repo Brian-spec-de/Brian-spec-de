@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Brian-spec-de/Brian-spec-de/raw/main/science-fiction-scene.jpg" alt="sci-fi banner" width="100%" />
-</p>
 
 <h1 align="center" style="color:#00FFE0;">🚀 Brian Adam: Code Voyager in the Dev Galaxy 🌌</h1>
 
