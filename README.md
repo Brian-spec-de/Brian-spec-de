@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.freepik.com/free-photo/science-fiction-scene_14541149.htm" alt="sci-fi banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/brian-spec-de//main/science-fiction-scene.jpg" alt="sci-fi banner" width="100%" />
 </p>
 
 <h1 align="center" style="color:#00FFE0;">🚀 Brian Adam: Code Voyager in the Dev Galaxy 🌌</h1>
