@@ -44,6 +44,24 @@
   </a>
 </p>
 ### 🎮 BreakBreaker Mini Game Demo
+## 🎮 BreakBreaker Game
 
-▶️ Klik untuk main sekarang] (https://brian-spec-de.github.io/brick_breaker/)
+🧱 Retro arcade game built with HTML5 + JS + Firebase-ready!  
+Smash bricks, dodge fail, and climb the levels 🕹️
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brianadam/breakbreaker/main/assets/preview.gif" alt="BreakBreaker Preview" width="500"/>
+</p>
+
+<p align="center">
+  <a href="https://brian-spec-de.github.io/brick_breaker/">
+    <img src="https://img.shields.io/badge/Play_Now-Click_Me-green?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=F7AB0A&center=true&vCenter=true&width=600&lines=>>>+Launching+BreakBreaker...;>>>+Loading+Bricks,+Sounds,+Level...;>>>+Game+Ready!+Let's+Smash+🧱" />
+</p>
+
+
 
