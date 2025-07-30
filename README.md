@@ -43,8 +43,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-### 🧱 BreakBreaker Console Boot
+### 🎮 BreakBreaker Mini Game Demo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF0080&center=true&vCenter=true&width=650&lines=>>>+Launching+BreakBreaker....;>>>+Connecting+to+Firebase....;>>>+Loading+Sprites...+OK;>>>+Ready+to+Play+🕹️;Use+your+code+as+your+bat+💥" />
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvKqwxv/giphy.gif" alt="BreakBreaker Game" width="500"/>
 </p>
+
+<p align="center">
+  <em>Old-school arcade style, rebuilt with passion 👾</em>
+</p>
+
