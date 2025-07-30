@@ -11,9 +11,9 @@
 
 ### 🧠 About Me
 
-- 🚀 I'm building: **eLearning App for Dosen & Mahasiswa**
+- 🚀 I'm building: **E-Learning App**
 - 🎯 Tech Focus: **Android, Firebase, GitHub, Clean Architecture**
-- 📫 Email me at: `your.email@example.com`
+- 📫 Email me at: `adambrian771@gmail.com`
 - 🌱 Learning: **Jetpack Compose & GitHub Actions**
 - ⚡ Fun fact: I debug more than I sleep 😄
 
@@ -32,43 +32,6 @@
 
 ---
 
-### 🌟 Featured Project
-
-<p align="center">
-  <img src="https://github.com/brianadam/eLearningApp/raw/main/screenshots/mahasiswa_home.png" alt="Project Screenshot" width="600"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/brianadam/eLearningApp">
-    🔗 View Project: <strong>eLearning App</strong>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianadam&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianadam&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianadam&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.ezra.codes/api?username=brianadam&bg_color=0d1117&color=58a6ff&line=11365d&point=1f6feb&area=true&hide_border=true" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
