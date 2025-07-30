@@ -43,3 +43,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+### 🧱 BreakBreaker Mode: ON
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHH0nRSK6PvZ7yN/giphy.gif" alt="BreakBreaker Animation" width="600" />
+</p>
