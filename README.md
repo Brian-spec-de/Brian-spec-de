@@ -45,11 +45,5 @@
 </p>
 ### 🎮 BreakBreaker Mini Game Demo
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvKqwxv/giphy.gif" alt="BreakBreaker Game" width="500"/>
-</p>
-
-<p align="center">
-  <em>Old-school arcade style, rebuilt with passion 👾</em>
-</p>
+▶️ Klik untuk main sekarang] (https://github.com/Brian-spec-de/Brian-spec-de/blob/main/index.html)
 
