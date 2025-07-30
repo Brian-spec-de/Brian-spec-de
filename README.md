@@ -45,5 +45,5 @@
 </p>
 ### 🎮 BreakBreaker Mini Game Demo
 
-▶️ Klik untuk main sekarang] (https://bria-spech-de.github.io/breakbreaker/)
+▶️ Klik untuk main sekarang] (https://brian-spec-de.github.io/brick_breaker/)
 
