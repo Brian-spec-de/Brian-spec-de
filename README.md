@@ -43,8 +43,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-### 🧱 BreakBreaker Mode: ON
+### 🧱 BreakBreaker Console Boot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9XgHH0nRSK6PvZ7yN/giphy.gif" alt="BreakBreaker Animation" width="600" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF0080&center=true&vCenter=true&width=650&lines=>>>+Launching+BreakBreaker....;>>>+Connecting+to+Firebase....;>>>+Loading+Sprites...+OK;>>>+Ready+to+Play+🕹️;Use+your+code+as+your+bat+💥" />
 </p>
