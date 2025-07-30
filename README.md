@@ -69,10 +69,10 @@
 ### 🧬 System Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianadam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFE0&icon_color=F7AB0A" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianadam&theme=radical&hide_border=true&background=0D1117&currStreakLabel=00FFE0" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brian-spec-de&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFE0&icon_color=F7AB0A" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brian-spec-detheme=radical&hide_border=true&background=0D1117&currStreakLabel=00FFE0" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brianadam&bg_color=0d1117&color=00ffe0&line=f7ab0a&point=f7ab0a&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brian-spec-de&bg_color=0d1117&color=00ffe0&line=f7ab0a&point=f7ab0a&area=true&hide_border=true"/>
 </p>
