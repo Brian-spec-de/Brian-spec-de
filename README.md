@@ -1,14 +1,6 @@
-<!-- Sci-Fi Animated Background (via external CSS trick using Gist) -->
-<style>
-  body {
-    background: radial-gradient(ellipse at bottom, #0d1a2d 0%, #000000 100%);
-    animation: bgScroll 30s infinite linear;
-  }
-  @keyframes bgScroll {
-    from { background-position: 0 0; }
-    to { background-position: 0 1000px; }
-  }
-</style>
+<p align="center">
+  <img src="https://www.freepik.com/free-photo/science-fiction-scene_14541149.htm" alt="sci-fi banner" width="100%" />
+</p>
 
 <h1 align="center" style="color:#00FFE0;">🚀 Brian Adam: Code Voyager in the Dev Galaxy 🌌</h1>
 
@@ -45,15 +37,7 @@
 
 ---
 
-### 🧪 GitHub Actions
 
-<p align="center">
-  <img src="https://github.com/brianadam/breakbreaker/actions/workflows/main.yml/badge.svg" alt="BreakBreaker CI" />
-  <img src="https://img.shields.io/github/last-commit/brianadam/breakbreaker?style=flat-square&color=00FFE0" />
-  <img src="https://img.shields.io/github/languages/top/brianadam/breakbreaker?style=flat-square&color=00FFE0"/>
-</p>
-
----
 
 ### 🛰️ Space Communication Channels
 
