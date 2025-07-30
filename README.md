@@ -1,7 +1,19 @@
+<!-- Sci-Fi Animated Background (via external CSS trick using Gist) -->
+<style>
+  body {
+    background: radial-gradient(ellipse at bottom, #0d1a2d 0%, #000000 100%);
+    animation: bgScroll 30s infinite linear;
+  }
+  @keyframes bgScroll {
+    from { background-position: 0 0; }
+    to { background-position: 0 1000px; }
+  }
+</style>
+
 <h1 align="center" style="color:#00FFE0;">🚀 Brian Adam: Code Voyager in the Dev Galaxy 🌌</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=480&lines=Android+%2B+Firebase+Engineer;Clean+Code+Commander;AI+%26+Game+Mechanic+Explorer;Welcome+to+My+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Android+%2B+Firebase+Engineer;Clean+Code+Commander;AI+%26+Game+Mechanic+Explorer;Welcome+to+My+Universe!" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -29,6 +41,16 @@
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Cloudinary-%233448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 GitHub Actions
+
+<p align="center">
+  <img src="https://github.com/brianadam/breakbreaker/actions/workflows/main.yml/badge.svg" alt="BreakBreaker CI" />
+  <img src="https://img.shields.io/github/last-commit/brianadam/breakbreaker?style=flat-square&color=00FFE0" />
+  <img src="https://img.shields.io/github/languages/top/brianadam/breakbreaker?style=flat-square&color=00FFE0"/>
 </p>
 
 ---
