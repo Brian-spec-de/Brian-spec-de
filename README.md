@@ -59,9 +59,5 @@ Smash bricks, dodge fail, and climb the levels 🕹️
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=F7AB0A&center=true&vCenter=true&width=600&lines=>>>+Launching+BreakBreaker...;>>>+Loading+Bricks,+Sounds,+Level...;>>>+Game+Ready!+Let's+Smash+🧱" />
-</p>
-
 
 
