@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:#00FFE0;">🚀 Brian Adam: Code Voyager in the Dev Galaxy 🌌</h1>
+<h1 align="center" style="color:#00FFE0;">🚀 Brian Adam Sinaga🌌</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=Android+%2B+Firebase+Engineer;Clean+Code+Commander;AI+%26+Game+Mechanic+Explorer;Welcome+to+My+Universe!" alt="Typing SVG" />
