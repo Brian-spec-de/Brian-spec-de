@@ -49,22 +49,7 @@
 
 ---
 
-### 👾 BreakBreaker: Retrocore Mini-Game
 
-🧱 Classic sci-fi brick breaker powered by `HTML5 + JS`  
-💥 Smash neon blocks. 🌀 Dodge cosmic fail. ☄️ Rise through hyperspace levels!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brianadam/breakbreaker/main/assets/preview.gif" alt="BreakBreaker Preview" width="500"/>
-</p>
-
-<p align="center">
-  <a href="https://brian-spec-de.github.io/brick_breaker/" target="_blank">
-    <img src="https://img.shields.io/badge/Engage_HyperPlay-Play_Now-00FFE0?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-
----
 
 ### 🧬 System Stats
 
